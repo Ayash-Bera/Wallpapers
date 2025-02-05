@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory containing wallpapers
-WALLPAPER_DIR="$HOME/wallpapers"
+WALLPAPER_DIR="$HOME/Pictures/wallpapers"
 
 # Function to list wallpapers
 menu() {
